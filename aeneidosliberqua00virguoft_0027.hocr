@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aeneidosliberqua00virguoft_0027.png"; bbox 0 0 1837 2930; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 560 146 1188 209">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 560 146 1188 209">
+     <span class='ocr_line' id='line_1_1' title="bbox 560 146 1188 209; baseline -0.003 -18"><span class='ocrx_word' id='word_1_1' title='bbox 560 147 890 191; x_wconf 73' lang='lat' dir='ltr'><strong>AENEIDOS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 940 148 1068 192; x_wconf 68' lang='grc' dir='ltr'><strong>ΜΒ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1122 146 1188 209; x_wconf 64' lang='grc' dir='ltr'><em>Ν</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 38 257 1713 2780">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 38 257 1713 2780">
+     <span class='ocr_line' id='line_1_2' title="bbox 38 257 1713 2780; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 38 257 1713 2780; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1728 1057 1770 1488">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1728 1057 1770 1488">
+     <span class='ocr_line' id='line_1_3' title="bbox 1728 1057 1770 1488; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 1730 1351 1770 1488; x_wconf 78' lang='lat' dir='ltr'><strong>(From</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1741 1309 1762 1333; x_wconf 68' lang='grc' dir='ltr'><strong>ει</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1728 1057 1769 1290; x_wconf 68' lang='lat' dir='ltr'>bas-relies.)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1730 1542 1765 1862">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1730 1542 1765 1862">
+     <span class='ocr_line' id='line_1_4' title="bbox 1730 1542 1765 1862; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 1730 1831 1764 1862; x_wconf 86' lang='grc' dir='ltr'><strong>Λ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1730 1542 1765 1800; x_wconf 60' lang='lat' dir='ltr'><strong>Rom-Ilum.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
